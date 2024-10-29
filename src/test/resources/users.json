@@ -1,0 +1,34 @@
+[
+  {
+    "password": "1234",
+    "role": "Customer",
+    "name": "Gemma Schulist",
+    "nid": "12345678",
+    "phone_number": "01303865278",
+    "email": "blondell.grimes@gmail.com"
+  },
+  {
+    "password": "1234",
+    "role": "Customer",
+    "name": "Eloy Schmeler",
+    "nid": "12345678",
+    "phone_number": "01302435812",
+    "email": "duncan.hand@gmail.com"
+  },
+  {
+    "password": "1234",
+    "role": "Agent",
+    "name": "Lavon Wiza",
+    "nid": "12345678",
+    "phone_number": "01303291686",
+    "email": "dorsey.price@hotmail.com"
+  },
+  {
+    "password": "1234",
+    "role": "Merchant",
+    "name": "Yer MacGyver",
+    "nid": "12345678",
+    "phone_number": "01307567308",
+    "email": "sung.koch@gmail.com"
+  }
+]
